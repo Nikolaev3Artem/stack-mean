@@ -1,0 +1,29 @@
+{
+  "name": "stack-mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolaev3Artem/stack-mean.git"
+  },
+  "dependencies": {
+    "express" : "*",
+    "mongoose" : "*",
+    "bcryptjs" : "*",
+    "passport" : "*",
+    "passport-jwt" : "*",
+    "body-parser" : "*",
+    "cors" : "*",
+    "jsonwebtoken" : "*"
+  },
+  "author": "ItzMaze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikolaev3Artem/stack-mean/issues"
+  },
+  "homepage": "https://github.com/Nikolaev3Artem/stack-mean#readme"
+}
